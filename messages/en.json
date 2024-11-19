@@ -1,0 +1,131 @@
+{
+  "navigation": {
+    "brand": "Green Agriculture",
+    "products": "Products",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "getInTouch": "Get in Touch",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "Green Agriculture Co., Ltd. All rights reserved.",
+    "description": "Premium agricultural products from Thailand to international markets. Specializing in sustainable animal products and arable crop-based products.",
+    "company": "Company",
+    "categories": {
+      "animal": {
+        "title": "Animal Products",
+        "beef": "Beef & Veal",
+        "pigmeat": "Pigmeat",
+        "poultry": "Poultry & Eggs",
+        "sheep": "Sheep & Goat"
+      },
+      "arable": {
+        "title": "Arable & Plant-Based",
+        "cereals": "Cereals",
+        "oilseeds": "Oilseeds",
+        "oils": "Vegetable Oils",
+        "sugar": "Sugar Products"
+      }
+    },
+    "open_menu": "Open Menu",
+    "close_menu": "Close Menu"
+  },
+  "blog": {
+    "title": "Our Blog",
+    "description": "Insights and updates from Green Agriculture",
+    "readMore": "Read More",
+    "backToBlog": "Back to Blog"
+  },
+  "about": {
+    "hero": {
+      "title": "About Green Agriculture",
+      "subtitle": "Leading the way in sustainable agriculture"
+    },
+    "story": {
+      "title": "Our Story",
+      "mission": {
+        "title": "Our Mission",
+        "description": "Green Agriculture Co., Ltd. is dedicated to delivering premium agricultural products to international markets while maintaining sustainable practices and supporting local farming communities in Thailand."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "We strive to be a global leader in sustainable agriculture, setting industry standards for quality, responsibility, and environmental stewardship in agricultural production and distribution."
+      }
+    },
+    "values": {
+      "title": "Our Values",
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "We prioritize environmental responsibility in all our operations, ensuring our practices contribute to a healthier planet."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "Our commitment to premium quality drives every aspect of our production and distribution processes."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously seek innovative solutions to improve our products and processes while maintaining traditional farming wisdom."
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Sustainable Agriculture",
+      "subtitle": "for a Better Tomorrow",
+      "description": "Leading the future of agriculture with sustainable practices and premium quality products for global markets.",
+      "exploreButton": "Explore Products",
+      "learnMoreButton": "About Us"
+    },
+    "stats": {
+      "title": "Our Impact",
+      "description": "Making a difference in sustainable agriculture",
+      "years": "Years of Excellence",
+      "products": "Product Categories",
+      "countries": "Countries Served",
+      "farmers": "Partner Farmers"
+    },
+    "features": {
+      "title": "Why Choose Green Agriculture",
+      "subtitle": "Setting new standards in agricultural excellence",
+      "quality": {
+        "title": "Premium Quality",
+        "description": "Rigorous quality control ensuring the finest agricultural products"
+      },
+      "global": {
+        "title": "Global Network",
+        "description": "Reliable supply chains reaching international markets"
+      },
+      "standards": {
+        "title": "Certified Excellence",
+        "description": "Meeting and exceeding international quality standards"
+      }
+    },
+    "products": {
+      "title": "Featured Products",
+      "subtitle": "Discover our premium selection",
+      "viewAll": "View All Products"
+    },
+    "sustainability": {
+      "title": "Our Commitment to Sustainability",
+      "description": "Leading the way in sustainable agricultural practices",
+      "environmental": {
+        "title": "Environmental Stewardship",
+        "description": "Implementing eco-friendly farming practices and reducing carbon footprint"
+      },
+      "social": {
+        "title": "Community Support",
+        "description": "Empowering local farmers and supporting rural communities"
+      },
+      "innovation": {
+        "title": "Sustainable Innovation",
+        "description": "Investing in green technologies and sustainable solutions"
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Agriculture?",
+      "description": "Join us in creating a sustainable future for agriculture",
+      "button": "Contact Us Today"
+    }
+  }
+}
